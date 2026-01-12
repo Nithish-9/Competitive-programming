@@ -14,6 +14,7 @@ int main()
 {
     
     string recipe;
+    cout<<"Hello";
     cin>>recipe;
     
     long long nb,ns,nc;
